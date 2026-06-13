@@ -51,21 +51,13 @@ ECM graduate with hands-on experience in embedded systems, IoT, UAV development,
 
 ## 🛰️ **TECH STACK**
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
-
-</div>
 
 <br/>
 
 **BASICS**
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp,git,github,vscode,linux,npm,mysql,docker,bash&perline=8" />
-
-</div>
 
 <br/>
 
@@ -83,11 +75,7 @@ ECM graduate with hands-on experience in embedded systems, IoT, UAV development,
 
 **MULTIMEDIA & HARDWARE**
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=ps,pr,ae,arduino,raspberrypi&perline=5" />
-
-</div>
 
 <br/>
 
