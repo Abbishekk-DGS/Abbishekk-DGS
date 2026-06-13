@@ -24,9 +24,9 @@
 
 <p>
 <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abbishekkfpv@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ABBISHEKK-DGS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
 </p>
 
 </div>
@@ -41,8 +41,7 @@
 
 **B.Tech, Electronics & Computer Engineering — Karunya Institute of Technology & Sciences.**
 
-Software Engineer and Technology Enthusiast with hands-on experience in drone systems, software development, and multimedia projects. Passionate about building innovative solutions, continuously learning emerging technologies, and contributing to impactful engineering projects.
-
+ECM graduate with hands-on experience in embedded systems, IoT, UAV development, and software programming. DGCA-certified drone pilot with strong troubleshooting, system integration, and problem-solving skills — focused on building real, deployable AI and autonomous systems.
 
 <br/>
 
@@ -52,53 +51,22 @@ Software Engineer and Technology Enthusiast with hands-on experience in drone sy
 
 ## 🛰️ **TECH STACK**
 
-
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c&perline=4" />
 
+**BACKEND & DATA**
 
-**FRONTEND**
+<img src="https://skillicons.dev/icons?i=flask,sqlite&perline=4" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" />
+**AI / COMPUTER VISION**
 
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,postgres,firebase,sqlite&perline=8" />
-
-
-**CLOUD & DEVOPS**
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,raspberrypi&perline=6" />
-
-
-**AI · ML · VISION**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=6" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=4" />
 &nbsp;<img src="https://img.shields.io/badge/YOLO-9D00FF?style=flat-square&logoColor=white" height="48"/>
 
+**TOOLS & PLATFORMS**
 
-**FLIGHT & AUTONOMY**
-
-<p>
-<img src="https://img.shields.io/badge/Betaflight-00F5FF?style=for-the-badge&logoColor=000"/>
-<img src="https://img.shields.io/badge/Mission%20Planner-FF00E4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArduPilot-39FF14?style=for-the-badge&logoColor=000"/>
-<img src="https://img.shields.io/badge/MAVLink-9D00FF?style=for-the-badge&logoColor=white"/>
-</p>
-
-<br/>
-
-| **🧠 DOMAIN** | **📡 PROFICIENCY** | **🔍 FOCUS** |
-|:---|:---:|:---|
-| **Machine Learning** | `████████░░` | Predictive Modeling & Classification |
-| **Computer Vision** | `██████░░░░` | Object Detection & Aerial Perception |
-| **UAV & Autonomous Flight** | `████████░░` | Drone Systems, Flight Control, Edge Payload |
-| **Edge Computing** | `██████░░░░` | Resource-Constrained AI on Embedded Hardware |
-| **Data Mining & Analytics** | `████████░░` | Insight Extraction, Dashboards |
-| **Full Stack Development** | `████████░░` | Flask, React, Node Ecosystems |
-| **Generative AI** | `██████░░░░` | LLM-Driven Automation |
+<img src="https://skillicons.dev/icons?i=git,github,linux,arduino,raspberrypi&perline=5" />
 
 <br/>
 
@@ -106,15 +74,34 @@ Software Engineer and Technology Enthusiast with hands-on experience in drone sy
 
 <br/>
 
-## 🚁 **FLAGSHIP DEPLOYMENT**
+## 🚁 **FLAGSHIP PROJECT**
 
-**⟡ Autonomous Aerial Security Platform**
+### **Skyyanta** — UAV Security Framework for Smart Intrusion Detection & Hierarchical Alert Management
 
-An AI-powered aerial security system with real-time computer vision, edge intelligence, smart intrusion detection, and automated alert management — deployed on embedded flight hardware.
+AI-powered UAV surveillance application with custom-trained YOLOv11 (22,909 images, mAP@50 ≈ 0.82) for dynamic, zone-based intrusion detection and hierarchical alerting.
+
+Full-stack pipeline: Raspberry Pi 5 + DJI O4 → YOLOv11 → Flask / SQLite3 → web dashboard. Mentored by TU Berlin.
 
 | `STACK` | `HARDWARE` |
 |:---|:---|
-| Python · Flask · OpenCV · PyTorch · SQLite3 | Raspberry Pi 5 · FC · ESC + BLDC · FPV Camera · GPS · LiPo · Frame + Props |
+| Python · Flask · OpenCV · PyTorch · SQLite3 | Raspberry Pi 5 · Flight Controller · ESC + BLDC · DJI O4 · GPS · LiPo |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🛠️ **PROJECTS**
+
+**Semi-Autonomous Drone for Automated Task Execution**
+UAV capable of waypoint navigation, area scanning, and autonomous mission execution.
+
+**GSM-Based Accident Alert System**
+Real-time accident detection system that sends GPS location alerts to emergency contacts via GSM.
+
+**RFID-Based Security & Attendance System**
+Automated access control with real-time attendance tracking and unauthorized-entry alerts; optimised microcontroller communication protocol to improve RFID read accuracy.
 
 <br/>
 
@@ -126,11 +113,28 @@ An AI-powered aerial security system with real-time computer vision, edge intell
 
 **📄 IEEE Publication**
 
-> UAV-Based AI Security Framework for Smart Intrusion Detection and Hierarchical Alert Management
+> UAV Security Framework for Smart Intrusion Detection and Hierarchical Alert Management System
 
 | **Venue** | **Status** |
 |:---|:---|
-| IEEE Conference | ✅ Accepted &nbsp;·&nbsp; ✅ Presented &nbsp;·&nbsp; 🕐 Awaiting Publication |
+| IEEE ICADCS 2026 — Vikrant University, Gwalior | ✅ Accepted &nbsp;·&nbsp; ✅ Presented &nbsp;·&nbsp; 🕐 Awaiting Publication |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🎓 **CERTIFICATIONS**
+
+- **DGCA Certified Remote Pilot (RPAS)** — Directorate General of Civil Aviation, India
+- **Accenture Data Analytics & Visualization Job Simulation** — Forage
+- **NPTEL – Data Mining** — Ministry of Education, Govt. of India
+- **NPTEL – Edge Computing** — Ministry of Education, Govt. of India
+- **NPTEL – Introduction to Industry 4.0 & Industrial IoT** — Ministry of Education, Govt. of India
+- **Cadence – C++ Language Fundamentals**
+- **HackerRank – Java (Basic) & Python (Basic)**
+- **IEEE ICADCS 2026 – Certificate of Participation**
 
 <br/>
 
@@ -171,11 +175,11 @@ An AI-powered aerial security system with real-time computer vision, edge intell
 
 ## 📡 **CONTACT GRID**
 
-<a href="mailto:abbishekkfpv@gmail.com"><img src="https://img.shields.io/badge/-Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
 &nbsp;
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/ABBISHEKK-DGS"><img src="https://img.shields.io/badge/-GitHub-FF00E4?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-FF00E4?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href=""><img src="https://img.shields.io/badge/-Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
 
