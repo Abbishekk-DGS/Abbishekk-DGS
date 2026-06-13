@@ -59,6 +59,16 @@ ECM graduate with hands-on experience in embedded systems, IoT, UAV development,
 
 <br/>
 
+**BASICS**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp,git,github,vscode,linux,npm,mysql,docker,bash&perline=8" />
+
+</div>
+
+<br/>
+
 **FLIGHT & AUTONOMY**
 
 <p>
@@ -68,6 +78,16 @@ ECM graduate with hands-on experience in embedded systems, IoT, UAV development,
 <img src="https://img.shields.io/badge/ArduPilot-39FF14?style=for-the-badge&logoColor=000"/>
 <img src="https://img.shields.io/badge/MAVLink-9D00FF?style=for-the-badge&logoColor=white"/>
 </p>
+
+<br/>
+
+**MULTIMEDIA & HARDWARE**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,arduino,raspberrypi&perline=5" />
+
+</div>
 
 <br/>
 
