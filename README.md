@@ -51,22 +51,23 @@ ECM graduate with hands-on experience in embedded systems, IoT, UAV development,
 
 ## 🛰️ **TECH STACK**
 
-**LANGUAGES**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c&perline=4" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
 
-**BACKEND & DATA**
+</div>
 
-<img src="https://skillicons.dev/icons?i=flask,sqlite&perline=4" />
+<br/>
 
-**AI / COMPUTER VISION**
+**FLIGHT & AUTONOMY**
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=4" />
-&nbsp;<img src="https://img.shields.io/badge/YOLO-9D00FF?style=flat-square&logoColor=white" height="48"/>
-
-**TOOLS & PLATFORMS**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,arduino,raspberrypi&perline=5" />
+<p>
+<img src="https://img.shields.io/badge/Roboflow-9D00FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Betaflight-00F5FF?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/Mission%20Planner-FF00E4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArduPilot-39FF14?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/MAVLink-9D00FF?style=for-the-badge&logoColor=white"/>
+</p>
 
 <br/>
 
@@ -105,6 +106,33 @@ Automated access control with real-time attendance tracking and unauthorized-ent
 
 <br/>
 
+**SOFTWARE PROJECTS**
+
+**Expense Tracker System**
+Desktop application to track income, expenses, and spending history, built with Java/Python and SQLite.
+
+**Portfolio Website**
+Personal portfolio site showcasing projects, skills, certifications, and contact details, built with HTML and CSS.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 💼 **INTERNSHIPS**
+
+**UAV Systems Engineer** — Interlock Solutions Pvt. Ltd. *(09/2023 – 10/2023)*
+Led development of a surveillance UAV, covering system design, hardware integration, and flight testing.
+
+**Embedded Systems Engineer (IoT)** — Retech Solutions Pvt. Ltd. *(05/2024 – 06/2024)*
+Built a smart home automation system using Blynk, MQTT/HTTP, and sensor integration.
+
+**Java Development Intern** — TechnoHacks Solutions Pvt. Ltd. *(02/2025 – 03/2025)*
+Built Java mini-projects covering OOP, collections, and exception handling.
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
 
 <br/>
@@ -128,13 +156,13 @@ Automated access control with real-time attendance tracking and unauthorized-ent
 ## 🎓 **CERTIFICATIONS**
 
 - **DGCA Certified Remote Pilot (RPAS)** — Directorate General of Civil Aviation, India
-- **Accenture Data Analytics & Visualization Job Simulation** — Forage
-- **NPTEL – Data Mining** — Ministry of Education, Govt. of India
+- **IEEE ICADCS 2026 – Certificate of Participation** — 1st International Conference on AI, Data Science, Cyber Security & Smart Manufacturing
 - **NPTEL – Edge Computing** — Ministry of Education, Govt. of India
+- **NPTEL – Data Mining** — Ministry of Education, Govt. of India
 - **NPTEL – Introduction to Industry 4.0 & Industrial IoT** — Ministry of Education, Govt. of India
+- **Accenture Data Analytics & Visualization Job Simulation** — Forage
 - **Cadence – C++ Language Fundamentals**
 - **HackerRank – Java (Basic) & Python (Basic)**
-- **IEEE ICADCS 2026 – Certificate of Participation**
 
 <br/>
 
