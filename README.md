@@ -1,134 +1,234 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0c7a72,100:7FE3DD&text=Abbishekk DGS&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Engineer · Researcher · Developer · DGCA-Certified Pilot&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=1000&color=0C7A72&center=true&vCenter=true&width=760&lines=Building+AI-powered+autonomous+systems;UAVs+·+Embedded+Systems+·+Computer+Vision;Websites+·+Automations+·+Digital+Growth;IEEE-published+researcher" alt="Typing intro"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text= &fontSize=10&animation=fadeIn"/>
+
+<br/>
+
+```
+   █████╗  ██████╗  ██████╗  ██╗ ███████╗ ██╗  ██╗ ███████╗ ██╗  ██╗ ██╗  ██╗    ██████╗   ██████╗  ███████╗
+  ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔════╝ ██║  ██║ ██╔════╝ ██║ ██╔╝ ██║ ██╔╝    ██╔══██╗ ██╔════╝  ██╔════╝
+  ███████║ ██████╔╝ ██████╔╝ ██║ ███████╗ ███████║ █████╗   █████╔╝  █████╔╝     ██║  ██║ ██║  ███╗ ███████╗
+  ██╔══██║ ██╔══██╗ ██╔══██╗ ██║ ╚════██║ ██╔══██║ ██╔══╝   ██╔═██╗  ██╔═██╗     ██║  ██║ ██║   ██║ ╚════██║
+  ██║  ██║ ██████╔╝ ██████╔╝ ██║ ███████║ ██║  ██║ ███████╗ ██║  ██╗ ██║  ██╗    ██████╔╝ ╚██████╔╝ ███████║
+  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═════╝   ╚═════╝  ╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3500&pause=1200&color=FF00E4&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT"/>
+
+<br/>
+
 <p>
-<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dgs--design.vercel.app-0c7a72?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/LinkedIn-abbishekk--dgs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/Email-abbishekkdgs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-39FF14?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTONOMOUS%20SYSTEMS-FF00E4?style=for-the-badge&labelColor=0d0d0d"/>
 </p>
+
 <p>
-<img src="https://img.shields.io/badge/IEEE-Published Author-00629B?style=flat-square&logo=ieee&logoColor=white"/>
-<img src="https://img.shields.io/badge/DGCA-Certified Remote Pilot-1f2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/Based in-Chennai%2C India-0c7a72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open to-Projects %26 Collaboration-2ea043?style=flat-square"/>
+<a href=""><img src="https://img.shields.io/badge/PORTFOLIO-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
 </p>
+
 </div>
-About
-I'm an Electronics & Computer Engineering graduate from Karunya Institute of Technology & Sciences, working where software meets hardware. I build UAVs, embedded and IoT systems, computer-vision pipelines and web products, and take them from idea to a tested, deployable system.
-🔬 IEEE-published researcher. My work on AI-driven UAV security is published through IEEE ICADCS 2026.
-🚁 DGCA-certified remote pilot with 20+ drone projects across surveillance, autonomy and FPV.
-💻 Software developer building websites, automations and data-driven applications.
-🎯 Current focus: real-world AI and autonomous systems that leave the lab.
-<table>
-<tr>
-<td align="center" width="25%"><h3>20+</h3><sub>Drone projects</sub></td>
-<td align="center" width="25%"><h3>7+ yrs</h3><sub>Hardware & embedded</sub></td>
-<td align="center" width="25%"><h3>2+ yrs</h3><sub>Software development</sub></td>
-<td align="center" width="25%"><h3>1</h3><sub>IEEE publication</sub></td>
-</tr>
-</table>
-Research
-📄 UAV Security Framework for Smart Intrusion Detection and Hierarchical Alert Management System
-<table>
-<tr><td><b>Published in</b></td><td>IEEE — 1st International Conference on AI, Data Science, Cyber Security & Smart Manufacturing (<b>ICADCS 2026</b>)</td></tr>
-<tr><td><b>Host</b></td><td>Vikrant University, Gwalior, India</td></tr>
-<tr><td><b>Status</b></td><td>✅ Accepted · ✅ Presented · ✅ Published</td></tr>
-<tr><td><b>Read</b></td><td><a href="#">IEEE Xplore</a> <!-- TODO: replace # with the IEEE Xplore / DOI link --></td></tr>
-</table>
-An AI-powered aerial surveillance framework combining a custom-trained YOLOv11 detector (22,909 images, mAP@50 ≈ 0.82) with zone-based intrusion detection and a hierarchical alerting pipeline, running on a Raspberry Pi 5 edge platform with a live web dashboard.
-Projects
-Hardware & Autonomy
-Project
-Summary
-Semi-Autonomous Drone
-UAV for automated task execution: waypoint navigation, area scanning and autonomous missions
-Surveillance UAV
-Surveillance drone covering system design, hardware integration and flight testing
-GSM Accident Alert System
-Detects accidents in real time and sends GPS location alerts to emergency contacts over GSM
-RFID Security & Attendance
-Access control with live attendance and unauthorised-entry alerts; optimised MCU communication for better read accuracy
-Smart Home IoT System
-Home automation with Blynk, MQTT/HTTP and sensor integration
-Software
-Project
-Summary
-Portfolio Website
-Portfolio and landing site built with Next.js, React, TypeScript, Tailwind CSS and GSAP, with a working contact pipeline
-Expense Tracker
-Desktop app to track income, expenses and spending history, using Java/Python and SQLite
-Experience
-Role
-Company
-Period
-Java Development Intern
-TechnoHacks Solutions Pvt. Ltd.
-Feb 2025 – Mar 2025
-Embedded Systems Engineer (IoT) Intern
-Retech Solutions Pvt. Ltd.
-May 2024 – Jun 2024
-UAV Systems Engineer Intern
-Interlock Solutions Pvt. Ltd.
-Sep 2023 – Oct 2023
-Interlock Solutions: led development of a surveillance UAV, from system design through hardware integration to flight testing.
-Retech Solutions: built a smart home automation system with Blynk, MQTT/HTTP and sensor integration.
-TechnoHacks Solutions: built Java applications applying OOP, collections and exception handling.
-Tech Stack
-Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash&perline=9" />
-AI, Backend & Data
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,flask,sqlite,mysql&perline=5" />
-Web
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,vercel&perline=5" />
-Embedded & Hardware
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,npm&perline=6" />
-Flight & Autonomy
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## ⚡ **ABOUT**
+
+**B.Tech, Electronics & Computer Engineering — Karunya Institute of Technology & Sciences.**
+
+ECM graduate with hands-on experience in embedded systems, IoT, UAV development, and software programming. DGCA-certified drone pilot with strong troubleshooting, system integration, and problem-solving skills — focused on building real, deployable AI and autonomous systems.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🛰️ **TECH STACK**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
+
+<br/>
+
+**BASICS**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp,git,github,vscode,linux,npm,mysql,docker,bash&perline=8" />
+
+<br/>
+
+**FLIGHT & AUTONOMY**
+
 <p>
-<img src="https://img.shields.io/badge/ArduPilot-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mission Planner-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MAVLink-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Betaflight-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv11-0c7a72?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Roboflow-0c7a72?style=for-the-badge&logo=roboflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-9D00FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Betaflight-00F5FF?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/Mission%20Planner-FF00E4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArduPilot-39FF14?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/MAVLink-9D00FF?style=for-the-badge&logoColor=white"/>
 </p>
-Media
-<img src="https://skillicons.dev/icons?i=ps,pr,ae&perline=3" />
-Certifications
-Certification
-Issuer
-Remote Pilot Certificate (RPAS)
-Directorate General of Civil Aviation (DGCA), India
-IEEE ICADCS 2026: Paper Presentation
-IEEE · Vikrant University
-NPTEL: Edge Computing
-Ministry of Education, Govt. of India
-NPTEL: Data Mining
-Ministry of Education, Govt. of India
-NPTEL: Introduction to Industry 4.0 & Industrial IoT
-Ministry of Education, Govt. of India
-Data Analytics & Visualization Job Simulation
-Accenture · Forage
-C++ Language Fundamentals
-Cadence
-Java (Basic) · Python (Basic)
-HackerRank
-GitHub Activity
+
+<br/>
+
+**MULTIMEDIA & HARDWARE**
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,arduino,raspberrypi&perline=5" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🚁 **FLAGSHIP PROJECT**
+
+### **Skyyanta** — UAV Security Framework for Smart Intrusion Detection & Hierarchical Alert Management
+
+AI-powered UAV surveillance application with custom-trained YOLOv11 (22,909 images, mAP@50 ≈ 0.82) for dynamic, zone-based intrusion detection and hierarchical alerting.
+
+Full-stack pipeline: Raspberry Pi 5 + DJI O4 → YOLOv11 → Flask / SQLite3 → web dashboard. Mentored by TU Berlin.
+
+| `STACK` | `HARDWARE` |
+|:---|:---|
+| Python · Flask · OpenCV · PyTorch · SQLite3 | Raspberry Pi 5 · Flight Controller · ESC + BLDC · DJI O4 · GPS · LiPo |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🛠️ **PROJECTS**
+
+**Semi-Autonomous Drone for Automated Task Execution**
+UAV capable of waypoint navigation, area scanning, and autonomous mission execution.
+
+**GSM-Based Accident Alert System**
+Real-time accident detection system that sends GPS location alerts to emergency contacts via GSM.
+
+**RFID-Based Security & Attendance System**
+Automated access control with real-time attendance tracking and unauthorized-entry alerts; optimised microcontroller communication protocol to improve RFID read accuracy.
+
+<br/>
+
+**SOFTWARE PROJECTS**
+
+**Expense Tracker System**
+Desktop application to track income, expenses, and spending history, built with Java/Python and SQLite.
+
+**Portfolio Website**
+Personal portfolio site showcasing projects, skills, certifications, and contact details, built with HTML and CSS.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 💼 **INTERNSHIPS**
+
+**UAV Systems Engineer** — Interlock Solutions Pvt. Ltd. *(09/2023 – 10/2023)*
+Led development of a surveillance UAV, covering system design, hardware integration, and flight testing.
+
+**Embedded Systems Engineer (IoT)** — Retech Solutions Pvt. Ltd. *(05/2024 – 06/2024)*
+Built a smart home automation system using Blynk, MQTT/HTTP, and sensor integration.
+
+**Java Development Intern** — TechnoHacks Solutions Pvt. Ltd. *(02/2025 – 03/2025)*
+Built Java mini-projects covering OOP, collections, and exception handling.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🔬 **RESEARCH**
+
+**📄 IEEE Publication**
+
+> UAV Security Framework for Smart Intrusion Detection and Hierarchical Alert Management System
+
+| **Venue** | **Status** |
+|:---|:---|
+| IEEE ICADCS 2026 — Vikrant University, Gwalior | ✅ Accepted &nbsp;·&nbsp; ✅ Presented &nbsp;·&nbsp; 🕐 Awaiting Publication |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 🎓 **CERTIFICATIONS**
+
+- **DGCA Certified Remote Pilot (RPAS)** — Directorate General of Civil Aviation, India
+- **IEEE ICADCS 2026 – Certificate of Participation** — 1st International Conference on AI, Data Science, Cyber Security & Smart Manufacturing
+- **NPTEL – Edge Computing** — Ministry of Education, Govt. of India
+- **NPTEL – Data Mining** — Ministry of Education, Govt. of India
+- **NPTEL – Introduction to Industry 4.0 & Industrial IoT** — Ministry of Education, Govt. of India
+- **Accenture Data Analytics & Visualization Job Simulation** — Forage
+- **Cadence – C++ Language Fundamentals**
+- **HackerRank – Java (Basic) & Python (Basic)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 📊 **SYSTEM STATS**
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abbishekk-DGS&show_icons=true&hide_border=true&theme=github_dark&title_color=7FE3DD&icon_color=7FE3DD&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://streak-stats.demolab.com?user=Abbishekk-DGS&hide_border=true&theme=github-dark-blue&background=0d1117&ring=7FE3DD&fire=7FE3DD&currStreakLabel=7FE3DD"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbishekk-DGS&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=7FE3DD&point=0c7a72&hide_border=true" width="95%"/>
-<img src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-<div align="center">
-Let's Build Something
-Open to drone and UAV projects, embedded/IoT systems, websites and automations, and research collaboration.
-<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/Start a conversation-0c7a72?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/View portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ABBISHEKK-DGS&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ABBISHEKK-DGS&theme=synthwave&hide_border=true&background=0d0d0d&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF"/>
+
 <br/><br/>
-"Some build software. Some build wings. I build the systems that connect them."
-<img src="https://komarev.com/ghpvc/?username=Abbishekk-DGS&style=flat-square&color=0c7a72&label=Profile+views"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7FE3DD,100:0c7a72" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABBISHEKK-DGS&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ABBISHEKK-DGS&theme=radical&column=4&margin-w=10&no-frame=true&background=0D0D0D"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABBISHEKK-DGS&theme=react-dark&bg_color=0d0d0d&color=00F5FF&line=FF00E4&point=39FF14&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## 📡 **CONTACT GRID**
+
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-FF00E4?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href=""><img src="https://img.shields.io/badge/-Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ABBISHEKK-DGS&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+### **_"Some build software. Some build wings. I build the systems that connect them."_**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20"/>
+
 </div>
