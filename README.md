@@ -232,14 +232,6 @@ Licensed for commercial flights in India
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbishekk-DGS&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbishekk-DGS&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 <br/><br/>
