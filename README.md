@@ -25,14 +25,12 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified rem
 
 `7+ years hardware` &nbsp; `20+ drone projects` &nbsp; `2+ years software`
 
-<img src="https://img.shields.io/badge/SAMPLE%20PREVIEW-layout%20mockup-555?style=flat-square"/>
-
 </div>
 
 <br/>
 
 <!-- ───────────── SERVICES ───────────── -->
-<h2 align="center">🚀 What I Do</h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=What%20I%20Do&fontSize=24&fontColor=ffffff&color=0:4facfe,100:00c6fb" alt="What I Do" width="100%"/></p>
 
 <table width="100%">
 <tr>
@@ -68,7 +66,7 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified rem
 <br/>
 
 <!-- ───────────── FLAGSHIP ───────────── -->
-<h2 align="center">🛰️ Flagship Project</h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Flagship%20Project&fontSize=24&fontColor=ffffff&color=0:a18cd1,100:fbc2eb" alt="Flagship Project" width="100%"/></p>
 
 <h3 align="center">AI-Powered UAV Security Framework</h3>
 
@@ -113,7 +111,7 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified rem
 <tr>
 <td width="50%" valign="top">
 
-<h2 align="center">🛠️ Projects</h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Projects&fontSize=24&fontColor=ffffff&color=0:f6d365,100:fda085" alt="Projects" width="100%"/></p>
 
 🛸 **Semi-Autonomous Drone**<br/>
 Waypoint navigation and autonomous missions
@@ -136,7 +134,7 @@ Access control with live attendance tracking
 </td>
 <td width="50%" valign="top">
 
-<h2 align="center">💼 Experience</h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Experience&fontSize=24&fontColor=ffffff&color=0:84fab0,100:8fd3f4" alt="Experience" width="100%"/></p>
 
 **UAV Systems Engineer** `2023`<br/>
 Interlock Solutions: led a surveillance UAV from design to flight testing
@@ -147,7 +145,7 @@ Retech Solutions: smart-home automation with Blynk, MQTT/HTTP and sensors
 **Java Development Intern** `2025`<br/>
 TechnoHacks Solutions: OOP, collections and exception handling
 
-<h2 align="center">🎓 Certifications</h2>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Certifications&fontSize=24&fontColor=ffffff&color=0:fccb90,100:d57eeb" alt="Certifications" width="100%"/></p>
 
 🚁 **DGCA Certified Remote Pilot (RPAS)**<br/>
 Licensed for commercial flights in India
@@ -164,80 +162,56 @@ Licensed for commercial flights in India
 
 <br/>
 
-<!-- ───────────── TECHNICAL CAPABILITIES (SAMPLE) ───────────── -->
-<h2 align="center">🧰 Technical Capabilities</h2>
+<!-- ───────────── TECHNICAL CAPABILITIES ───────────── -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Technical%20Capabilities&fontSize=24&fontColor=ffffff&color=0:4facfe,100:a18cd1" alt="Technical Capabilities" width="100%"/></p>
 
 <table width="100%">
 <tr>
 <td width="24%" valign="middle"><b>🚁 UAV & Flight Systems</b><br/><sub>Design · build · autonomy</sub></td>
 <td>
 <img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/PX4-3F51B5?style=flat-square"/>
 <img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gazebo%20SITL-FF7043?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flight%20Controllers-455A64?style=flat-square"/>
 <img src="https://img.shields.io/badge/GPS%20%26%20Telemetry-455A64?style=flat-square"/>
-<img src="https://skillicons.dev/icons?i=ros&perline=1" height="28"/>
+<img src="https://img.shields.io/badge/FPV-455A64?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td valign="middle"><b>🧠 Computer Vision & Edge AI</b><br/><sub>Train · optimize · deploy</sub></td>
+<td valign="middle"><b>🧠 Computer Vision & Edge AI</b><br/><sub>Train · deploy · detect</sub></td>
 <td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,raspberrypi&perline=4" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,raspberrypi&perline=3" />
 <img src="https://img.shields.io/badge/YOLOv11-6706CE?style=flat-square"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square"/>
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square"/>
 <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>☁️ Cloud & Infrastructure</b><br/><sub>Scale · orchestrate</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,nginx&perline=7" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🔁 CI/CD & Observability</b><br/><sub>Automate · monitor</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus&perline=4" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>⚙️ Backend & APIs</b><br/><sub>Services · messaging</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,java,graphql,kafka&perline=7" />
-<img src="https://img.shields.io/badge/REST-455A64?style=flat-square"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🗄️ Databases & Data</b><br/><sub>Storage · pipelines</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>🔌 Embedded & IoT</b><br/><sub>Sensors · connectivity</sub></td>
 <td>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&perline=4" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
 <img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square"/>
 <img src="https://img.shields.io/badge/GSM-455A64?style=flat-square"/>
 <img src="https://img.shields.io/badge/RFID-455A64?style=flat-square"/>
 </td>
 </tr>
 <tr>
+<td valign="middle"><b>⚙️ Backend & Data</b><br/><sub>APIs · storage</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,flask,java,sqlite,mysql&perline=5" />
+</td>
+</tr>
+<tr>
 <td valign="middle"><b>🌐 Web & Deployment</b><br/><sub>Build · ship</sub></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vercel&perline=5" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>🛠️ Platforms & Tooling</b><br/><sub>Dev workflow</sub></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,npm&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,bash,npm&perline=7" />
 </td>
 </tr>
 <tr>
@@ -258,7 +232,30 @@ Licensed for commercial flights in India
 
 <br/><br/>
 
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbishekk-DGS&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbishekk-DGS&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=56&text=Let%27s%20Connect&fontSize=24&fontColor=ffffff&color=0:4facfe,100:a18cd1" alt="Let's Connect" width="100%"/>
+
+<p>Open to <b>UAV systems, embedded engineering and applied AI</b> roles, research collaborations, and drone / web / aerial projects.</p>
+
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/abbishekk_dgs"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4facfe?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abbishekk-DGS&style=flat-square&color=a18cd1&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
