@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:4facfe,50:a18cd1,100:f6a5c0&section=header" width="100%"/>
+<br/>
 
 ```
    █████╗  ██████╗  ██████╗  ██╗ ███████╗ ██╗  ██╗ ███████╗ ██╗  ██╗ ██╗  ██╗    ██████╗   ██████╗  ███████╗
@@ -17,41 +17,47 @@
 <a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4facfe?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=3500&pause=1200&color=A18CD1&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=3500&pause=1200&color=A18CD1&center=true&vCenter=true&width=900&lines=BUILD.+AUTOMATE.+CREATE+IMPACT.;ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
 
-**UAV & embedded systems engineer · AI security researcher · DGCA-certified drone pilot**
+**I build websites and automations, design drones end to end, and shoot aerial cinematography.**
 
-M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 📄 Published at IEEE ICADCS 2026
+M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified remote pilot &nbsp;·&nbsp; 📄 Published at IEEE ICADCS 2026
+
+`7+ years hardware` &nbsp; `20+ drone projects` &nbsp; `2+ years software`
 
 </div>
 
 <br/>
 
-<!-- ───────────── WHAT I DO ───────────── -->
+<!-- ───────────── SERVICES ───────────── -->
 <h2 align="center">🚀 What I Do</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h4 align="center">🔬 Engineering & Research</h4>
-
-<ul>
-<li>UAV systems, custom drone builds, autonomous missions</li>
-<li>Embedded & IoT: sensors, microcontrollers, GSM, RFID</li>
-<li>AI-applied security: computer vision for aerial surveillance</li>
-</ul>
+<h4 align="center">🌐 Web Development</h4>
+<p align="center">Fast, responsive websites and landing pages that are understood in seconds.</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h4 align="center">🎬 Creative & Pilot Work</h4>
+<h4 align="center">⚙️ Automation & Marketing</h4>
+<p align="center">Workflow automation and digital marketing campaigns for visibility.</p>
 
-<ul>
-<li>FPV drone piloting (DGCA certified, RPAS)</li>
-<li>Videography and video editing</li>
-<li>Web development: <a href="https://dgs-design.vercel.app">dgs-design.vercel.app</a></li>
-</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">🚁 Drone Engineering</h4>
+<p align="center">Custom UAV builds for surveillance, delivery and autonomous missions, with flight controllers, GPS, telemetry and sensors.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">🎬 Aerial & Creative</h4>
+<p align="center">Licensed aerial photography and FPV cinematography, edited in Premiere Pro.</p>
 
 </td>
 </tr>
@@ -91,7 +97,7 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 📄 Published at 
 <ul>
 <li><b>IEEE ICADCS 2026</b>, Vikrant University, Gwalior</li>
 <li>Accepted · Presented · <b>Published</b></li>
-<li>Research areas: UAV security, Edge AI, Computer vision, Autonomous systems</li>
+<li>Areas: UAV security, Edge AI, Computer vision, Autonomous systems</li>
 </ul>
 
 </td>
@@ -108,16 +114,22 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 📄 Published at 
 <h2 align="center">🛠️ Projects</h2>
 
 🛸 **Semi-Autonomous Drone**<br/>
-Waypoint navigation, area scanning and autonomous missions
+Waypoint navigation and autonomous missions
 
-🚨 **GSM Accident Alert System**<br/>
-Detects accidents and sends GPS location alerts over GSM
+🎯 **Surveillance Drone**<br/>
+Built to operate in GPS-denied environments
+
+🏁 **Long-Range FPV Drone**<br/>
+5-inch build carrying a payload
+
+🏠 **Smart Home IoT System**<br/>
+Sensors and automation over Blynk and MQTT
+
+🚨 **GSM Accident Alert**<br/>
+Collision detection with emergency alerts
 
 🪪 **RFID Security & Attendance**<br/>
-Access control with live attendance and unauthorized-entry alerts
-
-🌐 **Portfolio Website**<br/>
-Cinematic, FPV-inspired site, live at <a href="https://dgs-design.vercel.app">dgs-design.vercel.app</a>
+Access control with live attendance tracking
 
 </td>
 <td width="50%" valign="top">
@@ -132,6 +144,17 @@ Retech Solutions: smart-home automation with Blynk, MQTT/HTTP and sensors
 
 **Java Development Intern** `2025`<br/>
 TechnoHacks Solutions: OOP, collections and exception handling
+
+<h2 align="center">🎓 Certifications</h2>
+
+🚁 **DGCA Certified Remote Pilot (RPAS)**<br/>
+Licensed for commercial flights in India
+
+📜 **IEEE ICADCS 2026**, Certificate of Participation
+
+📘 **NPTEL**: Edge Computing, Data Mining, Industry 4.0 & Industrial IoT
+
+📊 **Accenture (Forage)**: Data Analytics & Visualization
 
 </td>
 </tr>
@@ -157,42 +180,6 @@ TechnoHacks Solutions: OOP, collections and exception handling
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,docker,mysql&perline=8" />
 </p>
-
-<br/>
-
-<!-- ───────────── CERTIFICATIONS ───────────── -->
-<h2 align="center">🎓 Certifications</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-🚁 **DGCA Certified Remote Pilot (RPAS)**<br/>
-Directorate General of Civil Aviation, India
-
-</td>
-<td width="50%" align="center" valign="top">
-
-📜 **IEEE ICADCS 2026**<br/>
-Certificate of Participation
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-📘 **NPTEL**<br/>
-Edge Computing · Data Mining · Industry 4.0 & Industrial IoT
-
-</td>
-<td width="50%" align="center" valign="top">
-
-📊 **Accenture (Forage)**<br/>
-Data Analytics & Visualization Job Simulation
-
-</td>
-</tr>
-</table>
 
 <br/>
 
