@@ -20,74 +20,183 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=3500&pause=1200&color=A18CD1&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
 
 **UAV & embedded systems engineer · AI security researcher · DGCA-certified drone pilot**
+
 M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 📄 Published at IEEE ICADCS 2026
 
 </div>
 
----
+<br/>
 
-## 🚀 What I do
+<!-- ───────────── WHAT I DO ───────────── -->
+<h2 align="center">🚀 What I Do</h2>
 
-| 🔬 Engineering & Research | 🎬 Creative & Pilot Work |
-|:--|:--|
-| UAV systems, custom drone builds, autonomous missions | FPV drone piloting (DGCA certified, RPAS) |
-| Embedded & IoT: sensors, microcontrollers, GSM, RFID | Videography and video editing |
-| AI-applied security: computer vision for aerial surveillance | Web development: [dgs-design.vercel.app](https://dgs-design.vercel.app) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+<h4 align="center">🔬 Engineering & Research</h4>
 
-## 🛰️ Flagship: AI-Powered UAV Security Framework
+<ul>
+<li>UAV systems, custom drone builds, autonomous missions</li>
+<li>Embedded & IoT: sensors, microcontrollers, GSM, RFID</li>
+<li>AI-applied security: computer vision for aerial surveillance</li>
+</ul>
 
-Smart intrusion detection with hierarchical alert management, running on a drone.
+</td>
+<td width="50%" valign="top">
 
-`DJI O4` → `Raspberry Pi 5` → `YOLOv11` → `Flask + SQLite3` → `Live web dashboard`
+<h4 align="center">🎬 Creative & Pilot Work</h4>
 
-Zone-based detection with tiered alert escalation. Mentored by TU Berlin.
-&nbsp;**Published at IEEE ICADCS 2026**, Vikrant University, Gwalior.
+<ul>
+<li>FPV drone piloting (DGCA certified, RPAS)</li>
+<li>Videography and video editing</li>
+<li>Web development: <a href="https://dgs-design.vercel.app">dgs-design.vercel.app</a></li>
+</ul>
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Projects
+<br/>
 
-| | |
-|:--|:--|
-| 🛸 **Semi-Autonomous Drone** | Waypoint navigation, area scanning and autonomous missions |
-| 🚨 **GSM Accident Alert System** | Detects accidents and sends GPS location alerts over GSM |
-| 🪪 **RFID Security & Attendance** | Access control with live attendance and unauthorized-entry alerts |
-| 🌐 **Portfolio Website** | Cinematic, FPV-inspired site, live at [dgs-design.vercel.app](https://dgs-design.vercel.app) |
+<!-- ───────────── FLAGSHIP ───────────── -->
+<h2 align="center">🛰️ Flagship Project</h2>
 
----
+<h3 align="center">AI-Powered UAV Security Framework</h3>
 
-## 💼 Experience
+<p align="center"><i>Smart intrusion detection with hierarchical alert management, running on a drone.</i></p>
 
-| | |
-|:--|:--|
-| **UAV Systems Engineer**, Interlock Solutions `2023` | Led a surveillance UAV: design, integration, flight testing |
-| **Embedded Systems Engineer (IoT)**, Retech Solutions `2024` | Smart-home automation with Blynk, MQTT/HTTP and sensors |
-| **Java Development Intern**, TechnoHacks Solutions `2025` | OOP, collections and exception handling |
+<p align="center">
+<code>DJI O4</code> → <code>Raspberry Pi 5</code> → <code>YOLOv11</code> → <code>Flask + SQLite3</code> → <code>Live web dashboard</code>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 🧰 Tech Stack
+<h4 align="center">⚙️ How it works</h4>
 
+<ul>
+<li>Custom-trained YOLOv11 detection on board</li>
+<li>Zone-based intrusion detection</li>
+<li>Hierarchical alert escalation</li>
+<li>Mentored by TU Berlin</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">📄 Publication</h4>
+
+<ul>
+<li><b>IEEE ICADCS 2026</b>, Vikrant University, Gwalior</li>
+<li>Accepted · Presented · <b>Published</b></li>
+<li>Research areas: UAV security, Edge AI, Computer vision, Autonomous systems</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────── PROJECTS + EXPERIENCE ───────────── -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">🛠️ Projects</h2>
+
+🛸 **Semi-Autonomous Drone**<br/>
+Waypoint navigation, area scanning and autonomous missions
+
+🚨 **GSM Accident Alert System**<br/>
+Detects accidents and sends GPS location alerts over GSM
+
+🪪 **RFID Security & Attendance**<br/>
+Access control with live attendance and unauthorized-entry alerts
+
+🌐 **Portfolio Website**<br/>
+Cinematic, FPV-inspired site, live at <a href="https://dgs-design.vercel.app">dgs-design.vercel.app</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h2 align="center">💼 Experience</h2>
+
+**UAV Systems Engineer** `2023`<br/>
+Interlock Solutions: led a surveillance UAV from design to flight testing
+
+**Embedded Systems Engineer (IoT)** `2024`<br/>
+Retech Solutions: smart-home automation with Blynk, MQTT/HTTP and sensors
+
+**Java Development Intern** `2025`<br/>
+TechnoHacks Solutions: OOP, collections and exception handling
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────── TECH STACK ───────────── -->
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
 <img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
+</p>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,docker,mysql&perline=8" />
+</p>
 
----
+<br/>
 
-## 🎓 Certifications
+<!-- ───────────── CERTIFICATIONS ───────────── -->
+<h2 align="center">🎓 Certifications</h2>
 
-**DGCA Certified Remote Pilot (RPAS)** · **IEEE ICADCS 2026** Certificate of Participation · **NPTEL**: Edge Computing, Data Mining, Industry 4.0 & Industrial IoT · **Accenture** Data Analytics & Visualization (Forage)
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
----
+🚁 **DGCA Certified Remote Pilot (RPAS)**<br/>
+Directorate General of Civil Aviation, India
 
+</td>
+<td width="50%" align="center" valign="top">
+
+📜 **IEEE ICADCS 2026**<br/>
+Certificate of Participation
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+📘 **NPTEL**<br/>
+Edge Computing · Data Mining · Industry 4.0 & Industrial IoT
+
+</td>
+<td width="50%" align="center" valign="top">
+
+📊 **Accenture (Forage)**<br/>
+Data Analytics & Visualization Job Simulation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────── STATS ───────────── -->
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abbishekk-DGS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
