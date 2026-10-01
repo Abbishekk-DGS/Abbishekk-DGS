@@ -1,20 +1,42 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Abbishekk DGS — Engineer, Researcher, Builder, Pilot" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text= &fontSize=10&animation=fadeIn"/>
 
 <br/>
 
+```
+   █████╗  ██████╗  ██████╗  ██╗ ███████╗ ██╗  ██╗ ███████╗ ██╗  ██╗ ██╗  ██╗    ██████╗   ██████╗  ███████╗
+  ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔════╝ ██║  ██║ ██╔════╝ ██║ ██╔╝ ██║ ██╔╝    ██╔══██╗ ██╔════╝  ██╔════╝
+  ███████║ ██████╔╝ ██████╔╝ ██║ ███████╗ ███████║ █████╗   █████╔╝  █████╔╝     ██║  ██║ ██║  ███╗ ███████╗
+  ██╔══██║ ██╔══██╗ ██╔══██╗ ██║ ╚════██║ ██╔══██║ ██╔══╝   ██╔═██╗  ██╔═██╗     ██║  ██║ ██║   ██║ ╚════██║
+  ██║  ██║ ██████╔╝ ██████╔╝ ██║ ███████║ ██║  ██║ ███████╗ ██║  ██╗ ██║  ██╗    ██████╔╝ ╚██████╔╝ ███████║
+  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═════╝   ╚═════╝  ╚══════╝
+```
+
+<!-- CONTACT BAR (directly under the name) -->
 <a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abbishekkdgs%40gmail.com-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/LINKEDIN-abbishekk--dgs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- TODO: replace YOUR_INSTAGRAM_HANDLE in the next line (both the link and the badge text) -->
+<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/INSTAGRAM-@YOUR__INSTAGRAM__HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 <a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-dgs--design.vercel.app-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/GITHUB-Abbishekk--DGS-181717?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3500&pause=1200&color=FF00E4&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT;BUILDING+REAL%2C+DEPLOYABLE+AUTONOMOUS+SYSTEMS;DGCA+CERTIFIED+REMOTE+PILOT+(RPAS)" alt="Typing SVG"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/BASED%20IN-CHENNAI%2C%20INDIA-00F5FF?style=flat-square&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-39FF14?style=flat-square&labelColor=0d0d0d"/>
 
 <br/><br/>
 
-<img src="assets/metrics.svg" alt="Highlights: mAP 0.82, 22,909 images, IEEE ICADCS 2026, DGCA certified" width="100%"/>
+<img src="https://img.shields.io/badge/mAP%4050-0.82-00F5FF?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/TRAINING%20IMAGES-22%2C909-FF00E4?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/IEEE%20ICADCS%202026-PUBLISHED-39FF14?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/DGCA-CERTIFIED%20PILOT-9D00FF?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
@@ -64,7 +86,7 @@ Edge-deployed vision, zone-aware detection and tiered alerting for aerial survei
 
 ✅ **Accepted**
 ✅ **Presented**
-🕐 **Proceedings publication pending**
+✅ **Published**
 
 </td>
 </tr>
@@ -169,10 +191,14 @@ Open to **UAV systems, embedded engineering and applied AI** roles, and to resea
 
 <a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- TODO: replace YOUR_INSTAGRAM_HANDLE -->
+<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
 *"Some build software. Some build wings. I build the systems that connect them."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
