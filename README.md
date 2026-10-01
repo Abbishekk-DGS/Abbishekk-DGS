@@ -25,69 +25,9 @@ M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified rem
 
 `7+ years hardware` &nbsp; `20+ drone projects` &nbsp; `2+ years software`
 
+<img src="https://img.shields.io/badge/SAMPLE%20PREVIEW-layout%20mockup-555?style=flat-square"/>
+
 </div>
-
-<br/>
-
-<!-- ───────────── TECHNICAL CAPABILITIES ───────────── -->
-<h2 align="center">🧰 Technical Capabilities</h2>
-
-<table width="100%">
-<tr>
-<td width="24%" valign="middle"><b>🚁 UAV & Flight Systems</b><br/><sub>Design · build · autonomy</sub></td>
-<td>
-<img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flight%20Controllers-455A64?style=flat-square"/>
-<img src="https://img.shields.io/badge/GPS%20%26%20Telemetry-455A64?style=flat-square"/>
-<img src="https://img.shields.io/badge/FPV-455A64?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🧠 Computer Vision & Edge AI</b><br/><sub>Train · deploy · detect</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,raspberrypi&perline=3" />
-<img src="https://img.shields.io/badge/YOLOv11-6706CE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🔌 Embedded & IoT</b><br/><sub>Sensors · connectivity</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&perline=4" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
-<img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square"/>
-<img src="https://img.shields.io/badge/GSM-455A64?style=flat-square"/>
-<img src="https://img.shields.io/badge/RFID-455A64?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>⚙️ Backend & Data</b><br/><sub>APIs · storage</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,flask,java,sqlite,mysql&perline=5" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🌐 Web & Deployment</b><br/><sub>Build · ship</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vercel&perline=5" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🛠️ Platforms & Tooling</b><br/><sub>Dev workflow</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,bash,npm&perline=7" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🎬 Creative</b><br/><sub>Aerial · post-production</sub></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pr,ae,ps&perline=3" />
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -218,6 +158,92 @@ Licensed for commercial flights in India
 
 📊 **Accenture (Forage)**: Data Analytics & Visualization
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────── TECHNICAL CAPABILITIES (SAMPLE) ───────────── -->
+<h2 align="center">🧰 Technical Capabilities</h2>
+
+<table width="100%">
+<tr>
+<td width="24%" valign="middle"><b>🚁 UAV & Flight Systems</b><br/><sub>Design · build · autonomy</sub></td>
+<td>
+<img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/PX4-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gazebo%20SITL-FF7043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flight%20Controllers-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/GPS%20%26%20Telemetry-455A64?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=ros&perline=1" height="28"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🧠 Computer Vision & Edge AI</b><br/><sub>Train · optimize · deploy</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,raspberrypi&perline=4" />
+<img src="https://img.shields.io/badge/YOLOv11-6706CE?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square"/>
+<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>☁️ Cloud & Infrastructure</b><br/><sub>Scale · orchestrate</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,nginx&perline=7" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🔁 CI/CD & Observability</b><br/><sub>Automate · monitor</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus&perline=4" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>⚙️ Backend & APIs</b><br/><sub>Services · messaging</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,java,graphql,kafka&perline=7" />
+<img src="https://img.shields.io/badge/REST-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🗄️ Databases & Data</b><br/><sub>Storage · pipelines</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=5" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🔌 Embedded & IoT</b><br/><sub>Sensors · connectivity</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&perline=4" />
+<img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSM-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/RFID-455A64?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🌐 Web & Deployment</b><br/><sub>Build · ship</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vercel&perline=7" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🛠️ Platforms & Tooling</b><br/><sub>Dev workflow</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash,npm&perline=6" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🎬 Creative</b><br/><sub>Aerial · post-production</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pr,ae,ps&perline=3" />
 </td>
 </tr>
 </table>
