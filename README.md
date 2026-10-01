@@ -13,40 +13,48 @@
   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═════╝   ╚═════╝  ╚══════╝
 ```
 
-<!-- CONTACT BAR (directly under the name) -->
-<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/EMAIL-abbishekkdgs%40gmail.com-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/LINKEDIN-abbishekk--dgs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- TODO: replace YOUR_INSTAGRAM_HANDLE in the next line (both the link and the badge text) -->
-<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/INSTAGRAM-@YOUR__INSTAGRAM__HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<!-- CONTACT: one line -->
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email-21262d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/abbishekk_dgs"><img src="https://img.shields.io/badge/-Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-dgs--design.vercel.app-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/GITHUB-Abbishekk--DGS-181717?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3500&pause=1200&color=8B9EFF&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3500&pause=1200&color=FF00E4&center=true&vCenter=true&width=900&lines=ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT;BUILDING+REAL%2C+DEPLOYABLE+AUTONOMOUS+SYSTEMS;DGCA+CERTIFIED+REMOTE+PILOT+(RPAS)" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BASED%20IN-CHENNAI%2C%20INDIA-00F5FF?style=flat-square&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-39FF14?style=flat-square&labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/mAP%4050-0.82-00F5FF?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/TRAINING%20IMAGES-22%2C909-FF00E4?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/IEEE%20ICADCS%202026-PUBLISHED-39FF14?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/DGCA-CERTIFIED%20PILOT-9D00FF?style=for-the-badge&labelColor=0d0d0d"/>
+**UAV & embedded systems engineer · AI security researcher · DGCA-certified drone pilot**
+M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 📄 Published at IEEE ICADCS 2026 &nbsp;·&nbsp; Open to opportunities
 
 </div>
 
 <br/>
 
-## `01` &nbsp;MISSION BRIEF
+## `01` &nbsp;WHAT I DO
 
-I build **AI-powered autonomous systems that leave the lab and fly.** From airframe and flight controller to on-board vision and the alerting dashboard, I work across the whole stack: embedded hardware, UAV integration, computer vision and web.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently pursuing an **M.Tech in Computer Science & Engineering at SRM Institute of Science and Technology**, after a **B.Tech in Electronics & Computer Engineering** from Karunya Institute of Technology & Sciences. DGCA-certified remote pilot with real flight-test experience.
+### 🔬 Engineering & Research
+- **UAV systems**: custom drone builds, flight controllers, autonomous missions
+- **Embedded & IoT**: sensors, microcontrollers, GSM, RFID
+- **AI-applied security**: computer vision for aerial surveillance
+- **Software & web**: Python, Flask, Java, full-stack tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Creative & Pilot Work
+- **FPV drone piloting**: DGCA certified remote pilot (RPAS)
+- **Videography** and **video editing**
+- **Web development**: [dgs-design.vercel.app](https://dgs-design.vercel.app)
+- **Content**: YouTube and Instagram
+
+</td>
+</tr>
+</table>
+
+I build **AI-powered autonomous systems that leave the lab and fly**, from airframe and flight controller to on-board vision and the alerting dashboard. Currently pursuing an **M.Tech in Computer Science & Engineering at SRM Institute of Science and Technology**, after a **B.Tech in Electronics & Computer Engineering** from Karunya Institute of Technology & Sciences.
 
 <br/>
 
@@ -61,7 +69,7 @@ Currently pursuing an **M.Tech in Computer Science & Engineering at SRM Institut
 
 | | |
 |:--|:--|
-| 🧠 **Model** | Custom-trained **YOLOv11** on **22,909 images**, **mAP@50 ≈ 0.82** |
+| 🧠 **Model** | Custom-trained **YOLOv11** detection model |
 | 🗺️ **Logic** | Dynamic, **zone-based** intrusion detection with **hierarchical** alert escalation |
 | 🛠️ **Software** | Python · Flask · OpenCV · PyTorch · SQLite3 |
 | 🚁 **Hardware** | Raspberry Pi 5 · Flight controller · ESC + BLDC · DJI O4 · GPS · LiPo |
@@ -78,8 +86,6 @@ Currently pursuing an **M.Tech in Computer Science & Engineering at SRM Institut
 **UAV Security Framework for Smart Intrusion Detection and Hierarchical Alert Management System**
 
 IEEE ICADCS 2026 — *1st International Conference on AI, Data Science, Cyber Security & Smart Manufacturing*, Vikrant University, Gwalior.
-
-Edge-deployed vision, zone-aware detection and tiered alerting for aerial surveillance.
 
 </td>
 <td width="32%" valign="top">
@@ -141,36 +147,33 @@ A cinematic, FPV-inspired portfolio, live at [dgs-design.vercel.app](https://dgs
 
 <br/>
 
-## `06` &nbsp;ARSENAL
+## `06` &nbsp;TECH STACK
 
-<table>
-<tr>
-<td width="25%" valign="top"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash&perline=8"/></td>
-</tr>
-<tr>
-<td valign="top"><b>AI & Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,opencv,flask,sqlite,mysql&perline=5"/></td>
-</tr>
-<tr>
-<td valign="top"><b>Embedded & Systems</b></td>
-<td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github&perline=6"/></td>
-</tr>
-<tr>
-<td valign="top"><b>Flight & Autonomy</b></td>
-<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
+
+<br/>
+
+**BASICS**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp,git,github,vscode,linux,npm,mysql,docker,bash&perline=8" />
+
+<br/>
+
+**FLIGHT & AUTONOMY**
+
+<p>
+<img src="https://img.shields.io/badge/Roboflow-9D00FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Betaflight-00F5FF?style=for-the-badge&logoColor=000"/>
+<img src="https://img.shields.io/badge/Mission%20Planner-FF00E4?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArduPilot-39FF14?style=for-the-badge&logoColor=000"/>
 <img src="https://img.shields.io/badge/MAVLink-9D00FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mission%20Planner-FF00E4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Betaflight-00F5FF?style=for-the-badge&logoColor=000"/>
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Creative</b></td>
-<td><img src="https://skillicons.dev/icons?i=ps,pr,ae&perline=3"/></td>
-</tr>
-</table>
+</p>
+
+<br/>
+
+**MULTIMEDIA & HARDWARE**
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,arduino,raspberrypi&perline=5" />
 
 <br/>
 
@@ -183,22 +186,61 @@ A cinematic, FPV-inspired portfolio, live at [dgs-design.vercel.app](https://dgs
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+## `08` &nbsp;SYSTEM STATS
+
 <div align="center">
 
-## `08` &nbsp;LET'S BUILD SOMETHING
-
-Open to **UAV systems, embedded engineering and applied AI** roles, and to research collaborations.
-
-<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-FF00E4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- TODO: replace YOUR_INSTAGRAM_HANDLE -->
-<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-9D00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abbishekk-DGS&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9"/>
+<img height="160" src="https://streak-stats.demolab.com/?user=Abbishekk-DGS&theme=synthwave&hide_border=true&background=0d0d0d&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF"/>
 
 <br/><br/>
 
-*"Some build software. Some build wings. I build the systems that connect them."*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbishekk-DGS&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=c9d1d9"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abbishekk-DGS&theme=radical&column=4&margin-w=10&no-frame=true&background=0D0D0D"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbishekk-DGS&theme=react-dark&bg_color=0d0d0d&color=00F5FF&line=FF00E4&point=39FF14&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20"/>
+
+<br/>
+
+<div align="center">
+
+## `09` &nbsp;LET'S BUILD SOMETHING
+
+Open to **UAV systems, embedded engineering and applied AI** roles, and to research collaborations.
+
+<a href="mailto:abbishekkdgs@gmail.com"><img src="https://img.shields.io/badge/-Email-21262d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/abbishekk_dgs"><img src="https://img.shields.io/badge/-Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abbishekk-DGS&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+### **_"Some build software. Some build wings. I build the systems that connect them."_**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
