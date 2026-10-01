@@ -19,13 +19,75 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=3500&pause=1200&color=A18CD1&center=true&vCenter=true&width=900&lines=BUILD.+AUTOMATE.+CREATE+IMPACT.;ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
 
-**I build websites and automations, design drones end to end, and shoot aerial cinematography.**
+**UAV Systems · Edge AI · Embedded & IoT · Full-Stack Web · Aerial Cinematography**
 
 M.Tech CSE @ SRM &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; DGCA-certified remote pilot &nbsp;·&nbsp; 📄 Published at IEEE ICADCS 2026
 
 `7+ years hardware` &nbsp; `20+ drone projects` &nbsp; `2+ years software`
 
 </div>
+
+<br/>
+
+<!-- ───────────── TECHNICAL CAPABILITIES ───────────── -->
+<h2 align="center">🧰 Technical Capabilities</h2>
+
+<table width="100%">
+<tr>
+<td width="24%" valign="middle"><b>🚁 UAV & Flight Systems</b><br/><sub>Design · build · autonomy</sub></td>
+<td>
+<img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flight%20Controllers-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/GPS%20%26%20Telemetry-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/FPV-455A64?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🧠 Computer Vision & Edge AI</b><br/><sub>Train · deploy · detect</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,raspberrypi&perline=3" />
+<img src="https://img.shields.io/badge/YOLOv11-6706CE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🔌 Embedded & IoT</b><br/><sub>Sensors · connectivity</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp&perline=4" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blynk-23C48E?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSM-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/RFID-455A64?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>⚙️ Backend & Data</b><br/><sub>APIs · storage</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,flask,java,sqlite,mysql&perline=5" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🌐 Web & Deployment</b><br/><sub>Build · ship</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vercel&perline=5" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🛠️ Platforms & Tooling</b><br/><sub>Dev workflow</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,bash,npm&perline=7" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>🎬 Creative</b><br/><sub>Aerial · post-production</sub></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pr,ae,ps&perline=3" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -159,27 +221,6 @@ Licensed for commercial flights in India
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ───────────── TECH STACK ───────────── -->
-<h2 align="center">🧰 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,flask,sqlite,pytorch,opencv,git,github,linux,arduino,raspberrypi&perline=13" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/ArduPilot-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/MAVLink-7E57C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mission%20Planner-EC407A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Betaflight-29B6F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ps,pr,ae,html,css,js,docker,mysql&perline=8" />
-</p>
 
 <br/>
 
