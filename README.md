@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/abbishekk-dgs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/abbishekk_dgs"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/Abbishekk-DGS"><img src="https://img.shields.io/badge/-GitHub-6E5494?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://dgs-design.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4facfe?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://abbishekkdgs.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-4facfe?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=3500&pause=1200&color=A18CD1&center=true&vCenter=true&width=900&lines=BUILD.+AUTOMATE.+CREATE+IMPACT.;ENGINEER+%7C+RESEARCHER+%7C+BUILDER+%7C+PILOT" alt="Typing SVG"/>
 
