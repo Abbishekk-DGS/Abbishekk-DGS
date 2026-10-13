@@ -27,7 +27,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-dark.svg">
-  <img alt="Key figures: 7+ years of hardware; 20+ drone projects; 2+ years of software; IEEE ICADCS 2026, published; DGCA certified remote pilot. Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-light.svg" width="100%">
+  <img alt="Key figures: 7+ years of hardware; 20+ drone projects; 2+ years of software; DGCA certified remote pilot. Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -37,7 +37,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-dark.svg">
-  <img alt="Experience. 2023: UAV Systems Engineer, Interlock Solutions. Led a surveillance UAV from design to flight testing. 2024: Embedded Systems Engineer (IoT), Retech Solutions. Smart-home automation with Blynk, MQTT/HTTP and sensors. 2025: Java Development Intern, TechnoHacks Solutions. OOP, collections and exception handling." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-light.svg" width="100%">
+  <img alt="Experience. 2023: UAV Systems Engineer. Led a surveillance UAV from design to flight testing. 2024: Embedded Systems Engineer (IoT). Smart-home automation with Blynk, MQTT/HTTP and sensors. 2025: Java Development Intern. OOP, collections and exception handling." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-light.svg" width="100%">
 </picture>
 
 <picture>
