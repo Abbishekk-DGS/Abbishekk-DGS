@@ -22,15 +22,23 @@ M.Tech CSE @ SRM · Chennai, India · DGCA-certified remote pilot · Published a
 
 </div>
 
----
+<br>
 
-Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them: **7+ years** of hardware, **20+** drone projects, **2+ years** of software.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-dark.svg">
+  <img alt="Key figures: 7+ years of hardware; 20+ drone projects; 2+ years of software; IEEE ICADCS 2026, published; DGCA certified remote pilot" src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-light.svg" width="100%">
+</picture>
+
+Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them.
 
 ## Flagship: AI-Powered UAV Security Framework
 
 Smart intrusion detection with hierarchical alert management, running on a drone. Mentored by TU Berlin.
 
-`DJI O4` → `Raspberry Pi 5` → `YOLOv11` → `Flask + SQLite3` → `Live web dashboard`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/pipeline-dark.svg">
+  <img alt="System pipeline: DJI O4 (camera and video link) → Raspberry Pi 5 (on-board compute) → YOLOv11 (custom-trained detection) → Flask + SQLite3 (backend and storage) → Live web dashboard (monitoring and alerts). The first three stages run on the drone." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/pipeline-light.svg" width="100%">
+</picture>
 
 - Custom-trained YOLOv11 detection on board
 - Zone-based intrusion detection
@@ -41,12 +49,10 @@ Smart intrusion detection with hierarchical alert management, running on a drone
 
 ## Experience
 
-- **UAV Systems Engineer**, Interlock Solutions · 2023<br>
-  Led a surveillance UAV from design to flight testing.
-- **Embedded Systems Engineer (IoT)**, Retech Solutions · 2024<br>
-  Smart-home automation with Blynk, MQTT/HTTP and sensors.
-- **Java Development Intern**, TechnoHacks Solutions · 2025<br>
-  OOP, collections and exception handling.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/timeline-dark.svg">
+  <img alt="Experience: 2023, UAV Systems Engineer at Interlock Solutions: Led a surveillance UAV from design to flight testing.; 2024, Embedded Systems Engineer (IoT) at Retech Solutions: Smart-home automation with Blynk, MQTT/HTTP and sensors.; 2025, Java Development Intern at TechnoHacks Solutions: OOP, collections and exception handling." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/timeline-light.svg" width="100%">
+</picture>
 
 ## Projects
 
@@ -71,15 +77,10 @@ Smart intrusion detection with hierarchical alert management, running on a drone
 
 ## Technical capabilities
 
-| Area | Tools |
-|---|---|
-| **UAV & flight systems** | ArduPilot · MAVLink · Mission Planner · Betaflight · flight controllers · GPS & telemetry · FPV |
-| **Computer vision & edge AI** | YOLOv11 · PyTorch · OpenCV · Roboflow |
-| **Embedded & IoT** | Arduino · Raspberry Pi · C · C++ · MQTT · Blynk · GSM · RFID |
-| **Backend & data** | Python · Flask · Java · SQLite · MySQL |
-| **Web & deployment** | HTML · CSS · JavaScript · TypeScript · Vercel |
-| **Platforms & tooling** | Linux · Git · GitHub · Docker · VS Code · Bash · npm |
-| **Creative** | Premiere Pro · After Effects · Photoshop |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/stack-dark.svg">
+  <img alt="Technical capabilities. UAV &amp; flight systems: ArduPilot, MAVLink, Mission Planner, Betaflight, Flight controllers, GPS &amp; telemetry, FPV. Computer vision &amp; edge AI: YOLOv11, PyTorch, OpenCV, Roboflow. Embedded &amp; IoT: Arduino, Raspberry Pi, C, C++, MQTT, Blynk, GSM, RFID. Backend &amp; data: Python, Flask, Java, SQLite, MySQL. Web &amp; deployment: HTML, CSS, JavaScript, TypeScript, Vercel. Platforms &amp; tooling: Linux, Git, GitHub, Docker, VS Code, Bash, npm. Creative: Premiere Pro, After Effects, Photoshop." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/stack-light.svg" width="100%">
+</picture>
 
 ## Work with me
 
