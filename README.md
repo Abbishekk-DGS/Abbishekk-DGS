@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-dark.svg">
-  <img alt="Autonomous UAV Systems, Edge AI, Embedded Engineering, Full-Stack Development, Aerial Cinematography. Chennai, India, DGCA-certified remote pilot, UAV security &amp; edge-AI research, Open to roles &amp; collaborations." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-light.svg" width="100%">
+  <img alt="Autonomous UAV Systems, Edge AI, Embedded Engineering, Full-Stack Development, Aerial Cinematography, Entrepreneur. Chennai, India, DGCA-certified remote pilot, UAV security &amp; edge-AI research, Open to roles &amp; collaborations." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-light.svg" width="100%">
 </picture>
 
 [![Portfolio](https://img.shields.io/badge/abbishekkdgs.tech-30363d?style=flat-square&logo=safari&logoColor=white)](https://abbishekkdgs.tech)
