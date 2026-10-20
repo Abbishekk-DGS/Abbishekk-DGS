@@ -70,3 +70,15 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/quote-dark.svg">
   <img alt="“Some build software. Some build wings. I build the systems that connect them.”" src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/quote-light.svg" width="100%">
 </picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/output/github-snake-dark.svg">
+  <img alt="Contribution graph, eaten by a snake." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/output/github-snake.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/signoff-dark.svg">
+  <img alt="Flight route: the quadcopter takes off from home and flies through four waypoints." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/signoff-light.svg" width="100%">
+</picture>
