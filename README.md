@@ -13,7 +13,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-dark.svg">
-  <img alt="UAV Systems · Edge AI · Embedded &amp; IoT · Full-Stack Web · Aerial Cinematography. M.Tech CSE @ SRM · Chennai, India · DGCA-certified remote pilot · Published at IEEE ICADCS 2026." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-light.svg" width="100%">
+  <img alt="UAV Systems, Edge AI, Embedded &amp; IoT, Full-Stack Web, Aerial Cinematography. M.Tech CSE @ SRM, Chennai, India, DGCA-certified remote pilot, Published at IEEE ICADCS 2026.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/hero-light.svg" width="100%">
 </picture>
 
 [![Portfolio](https://img.shields.io/badge/abbishekkdgs.tech-30363d?style=flat-square&logo=safari&logoColor=white)](https://abbishekkdgs.tech)
@@ -27,37 +27,37 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-dark.svg">
-  <img alt="Key figures: 7+ years of hardware; 20+ drone projects; 2+ years of software; DGCA certified remote pilot. Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-light.svg" width="100%">
+  <img alt="Key figures: 7+ years of hardware; 20+ drone projects; 2+ years of software; DGCA certified remote pilot. Engineer, researcher, builder and pilot. I design and fly UAVs, run computer vision on board, and build the embedded and web systems around them.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/highlights-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/flagship-dark.svg">
-  <img alt="Flagship: AI-Powered UAV Security Framework. Smart intrusion detection with hierarchical alert management, running on a drone. Mentored by TU Berlin. Pipeline: DJI O4 (camera and video link) → Raspberry Pi 5 (on-board compute) → YOLOv11 (custom-trained detection) → Flask + SQLite3 (backend and storage) → Live web dashboard (monitoring and alerts); the first three stages run on the drone. Features: Custom-trained YOLOv11 detection on board; Zone-based intrusion detection; Hierarchical alert escalation. Publication: IEEE ICADCS 2026 · Vikrant University, Gwalior. Accepted, Presented, Published. Areas: UAV security, Edge AI, Computer vision, Autonomous systems." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/flagship-light.svg" width="100%">
+  <img alt="Flagship project: AI-Powered UAV Security Framework. Smart intrusion detection with hierarchical alert management, running on a drone. Mentored by TU Berlin. Pipeline: DJI O4 (camera and video link) → Raspberry Pi 5 (on-board compute) → YOLOv11 (custom-trained detection) → Flask + SQLite3 (backend and storage) → Live web dashboard (monitoring and alerts); the first three stages run on the drone. Features: Custom-trained YOLOv11 detection on board; Zone-based intrusion detection; Hierarchical alert escalation. Publication: IEEE ICADCS 2026, Vikrant University, Gwalior. Accepted, Presented, Published. Areas: UAV security, Edge AI, Computer vision, Autonomous systems.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/flagship-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-dark.svg">
-  <img alt="Experience. 2023: UAV Systems Engineer. Led a surveillance UAV from design to flight testing. 2024: Embedded Systems Engineer (IoT). Smart-home automation with Blynk, MQTT/HTTP and sensors. 2025: Java Development Intern. OOP, collections and exception handling." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-light.svg" width="100%">
+  <img alt="Experience. 2023: UAV Systems Engineer. Led a surveillance UAV from design to flight testing. 2024: Embedded Systems Engineer (IoT). Smart-home automation with Blynk, MQTT/HTTP and sensors. 2025: Java Development Intern. OOP, collections and exception handling.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/experience-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-dark.svg">
-  <img alt="Projects. Drones: Semi-Autonomous Drone: Waypoint navigation and autonomous missions; Surveillance Drone: Built to operate in GPS-denied environments; Long-Range FPV Drone: 5-inch build carrying a payload. Embedded &amp; IoT: Smart Home IoT System: Sensors and automation over Blynk and MQTT; GSM Accident Alert: Collision detection with emergency alerts; RFID Security &amp; Attendance: Access control with live attendance tracking." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-light.svg" width="100%">
+  <img alt="Projects. Drones: Semi-Autonomous Drone: Waypoint navigation and autonomous missions; Surveillance Drone: Built to operate in GPS-denied environments; Long-Range FPV Drone: 5-inch build carrying a payload. Embedded &amp; IoT: Smart Home IoT System: Sensors and automation over Blynk and MQTT; GSM Accident Alert: Collision detection with emergency alerts; RFID Security &amp; Attendance: Access control with live attendance tracking.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/certifications-dark.svg">
-  <img alt="Certifications. DGCA Certified Remote Pilot (RPAS): Licensed for commercial flights in India. IEEE ICADCS 2026: Certificate of Participation. NPTEL: Edge Computing, Data Mining, Industry 4.0 &amp; Industrial IoT. Accenture (Forage): Data Analytics &amp; Visualization." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/certifications-light.svg" width="100%">
+  <img alt="Certifications. DGCA Certified Remote Pilot (RPAS): Licensed for commercial flights in India. IEEE ICADCS 2026: Certificate of Participation. NPTEL: Edge Computing, Data Mining, Industry 4.0 &amp; Industrial IoT. Accenture (Forage): Data Analytics &amp; Visualization.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/certifications-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/stack-dark.svg">
-  <img alt="Technical capabilities. UAV &amp; flight systems: ArduPilot, MAVLink, Mission Planner, Betaflight, Flight controllers, GPS &amp; telemetry, FPV. Computer vision &amp; edge AI: YOLOv11, PyTorch, OpenCV, Roboflow. Embedded &amp; IoT: Arduino, Raspberry Pi, C, C++, MQTT, Blynk, GSM, RFID. Backend &amp; data: Python, Flask, Java, SQLite, MySQL. Web &amp; deployment: HTML, CSS, JavaScript, TypeScript, Vercel. Platforms &amp; tooling: Linux, Git, GitHub, Docker, VS Code, Bash, npm. Creative: Premiere Pro, After Effects, Photoshop." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/stack-light.svg" width="100%">
+  <img alt="Technical capabilities. UAV &amp; flight systems: ArduPilot, MAVLink, Mission Planner, Betaflight, Flight controllers, GPS &amp; telemetry, FPV. Computer vision &amp; edge AI: YOLOv11, PyTorch, OpenCV, Roboflow. Embedded &amp; IoT: Arduino, Raspberry Pi, C, C++, MQTT, Blynk, GSM, RFID. Backend &amp; data: Python, Flask, Java, SQLite, MySQL. Web &amp; deployment: HTML, CSS, JavaScript, TypeScript, Vercel. Platforms &amp; tooling: Linux, Git, GitHub, Docker, VS Code, Bash, npm. Creative: Premiere Pro, After Effects, Photoshop.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/stack-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/services-dark.svg">
-  <img alt="Work with me. Open to UAV systems, embedded engineering and applied AI roles, research collaborations, and drone, web and aerial projects. Drone engineering: Custom UAV builds for surveillance, delivery and autonomous missions, with flight controllers, GPS, telemetry and sensors. Aerial &amp; creative: Licensed aerial photography and FPV cinematography, edited in Premiere Pro. Web development: Fast, responsive websites and landing pages that are understood in seconds. Automation &amp; marketing: Workflow automation and digital marketing campaigns for visibility." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/services-light.svg" width="100%">
+  <img alt="Work with me. Open to UAV systems, embedded engineering and applied AI roles, research collaborations, and drone, web and aerial projects. Drone engineering: Custom UAV builds for surveillance, delivery and autonomous missions, with flight controllers, GPS, telemetry and sensors. Aerial &amp; creative: Licensed aerial photography and FPV cinematography, edited in Premiere Pro. Web development: Fast, responsive websites and landing pages that are understood in seconds. Automation &amp; marketing: Workflow automation and digital marketing campaigns for visibility.https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/services-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -68,5 +68,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/quote-dark.svg">
-  <img alt="“Some build software. Some build wings. I build the systems that connect them.”" src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/quote-light.svg" width="100%">
+  <img alt="“Some build software. Some build wings. I build the systems that connect them.”https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/quote-light.svg" width="100%">
 </picture>
