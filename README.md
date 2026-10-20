@@ -42,7 +42,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-dark.svg">
-  <img alt="Projects. Drones: Semi-Autonomous Drone: Waypoint navigation and autonomous missions; Surveillance Drone: Built to operate in GPS-denied environments; Long-Range FPV Drone: 5-inch build carrying a payload. Embedded &amp; IoT: Smart Home IoT System: Sensors and automation over Blynk and MQTT; GSM Accident Alert: Collision detection with emergency alerts; RFID Security &amp; Attendance: Access control with live attendance tracking." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-light.svg" width="100%">
+  <img alt="Projects. Drones: Semi-Autonomous Drone: Waypoint navigation and planned missions, with the pilot able to take over at any point; Surveillance Drone: Compact airframe with a live video feed, built for GPS-denied and confined spaces; Long-Range FPV Drone: 5-inch long-range build with a payload release mechanism; Cinewhoop: Ducted FPV drone for smooth cinematic, close-proximity shots. Software &amp; automation: Business Process Automation: Workflows that connect systems and take repetitive manual steps out of daily operations; CRM &amp; Client Lifecycle: One system from first enquiry to delivery: lead pipeline, automated follow-ups, full client history. Embedded &amp; IoT: Smart Home IoT System: Sensors and automation over Blynk and MQTT; GSM Accident Alert: Collision detection with emergency alerts; RFID Security &amp; Attendance: Access control with live attendance tracking." src="https://raw.githubusercontent.com/Abbishekk-DGS/Abbishekk-DGS/main/assets/projects-light.svg" width="100%">
 </picture>
 
 <picture>
