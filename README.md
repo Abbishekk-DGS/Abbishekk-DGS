@@ -12,9 +12,9 @@
 ```
 
 
-**Autonomous UAV Systems &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Embedded Engineering &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Aerial Cinematography &nbsp;·&nbsp; Entrepreneur**
+Autonomous UAV Systems · Edge AI · Embedded Engineering · Full-Stack Development · Aerial Cinematography · Entrepreneur
 
-<sub>Chennai, India &nbsp;·&nbsp; DGCA-certified remote pilot &nbsp;·&nbsp; UAV security & edge-AI research &nbsp;·&nbsp; open to roles & collaborations</sub>
+<sub>Chennai, India &nbsp;·&nbsp; UAV security & edge-AI research &nbsp;·&nbsp; open to roles & collaborations</sub>
 
 <br>
 
@@ -32,7 +32,6 @@
 │                                                                        │
 │  NAME        Abbishekk DGS                                             │
 │  BASE        Chennai, India                                            │
-│  LICENCE     DGCA certified remote pilot (RPAS)                        │
 │                                                                        │
 │  HARDWARE    ███████  7+ years                                         │
 │  SOFTWARE    ██       2+ years                                         │
@@ -49,13 +48,12 @@
 
 Smart intrusion detection with hierarchical alert management, running on a drone. Mentored by **TU Berlin**.
 
-```mermaid
-flowchart LR
-  subgraph drone ["On the drone"]
-    direction LR
-    A["DJI O4<br/><sub>camera + video link</sub>"] --> B["Raspberry Pi 5<br/><sub>on-board compute</sub>"] --> C["YOLOv11<br/><sub>custom-trained detection</sub>"]
-  end
-  C --> D["Flask + SQLite3<br/><sub>backend + storage</sub>"] --> E["Live web dashboard<br/><sub>monitoring + alerts</sub>"]
+```text
+························· ON THE DRONE ························   ················· GROUND ················
+┌───────────────┐   ┌──────────────────┐   ┌──────────────────┐   ┌───────────────────┐   ┌───────────────┐
+│ DJI O4        │──▶│ Raspberry Pi 5   │──▶│ YOLOv11          │──▶│ Flask + SQLite3   │──▶│ Web dashboard │
+│ camera + link │   │ on-board compute │   │ custom detection │   │ backend + storage │   │ live alerts   │
+└───────────────┘   └──────────────────┘   └──────────────────┘   └───────────────────┘   └───────────────┘
 ```
 
 - Custom-trained YOLOv11 detection on board
@@ -158,14 +156,14 @@ One new open-source AI project at a time. Each one runs locally on an 8 GB lapto
 
 ## Certifications
 
-- **DGCA Certified Remote Pilot (RPAS)**, licensed for commercial flights in India
 - **IEEE ICADCS 2026**, certificate of participation
 - **NPTEL**: Edge Computing, Data Mining, Industry 4.0 & Industrial IoT
 - **Accenture (Forage)**: Data Analytics & Visualization
+- DGCA Remote Pilot (RPAS)
 
 ## Toolkit
 
-| | |
+| Area | Tools |
 |:--|:--|
 | **UAV & flight** | `ArduPilot` `MAVLink` `Mission Planner` `Betaflight` `Flight controllers` `GPS & telemetry` `FPV` |
 | **Vision & edge AI** | `YOLOv11` `PyTorch` `OpenCV` `Roboflow` |
@@ -179,10 +177,10 @@ One new open-source AI project at a time. Each one runs locally on an 8 GB lapto
 
 Open to UAV systems, embedded engineering and applied AI roles, research collaborations, and drone, web and aerial projects.
 
-| | |
+| Service | What you get |
 |:--|:--|
 | **Drone engineering** | Custom UAV builds for surveillance, delivery and autonomous missions, with flight controllers, GPS, telemetry and sensors |
-| **Aerial & creative** | Licensed aerial photography and FPV cinematography, edited in Premiere Pro |
+| **Aerial & creative** | Aerial photography and FPV cinematography, edited in Premiere Pro |
 | **Web development** | Fast, responsive websites and landing pages that are understood in seconds |
 | **Automation & marketing** | Workflow automation and digital marketing campaigns for visibility |
 
